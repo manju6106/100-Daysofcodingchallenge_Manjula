@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Web Design Mastery | Responsive Portfolio</title>
+  </head>
+  <body>
+    <nav>
+      <div class="nav__content">
+        <div class="logo"><a href="#">Manjula</a></div>
+        <label for="check" class="checkbox">
+          <i class="ri-menu-line"></i>
+        </label>
+        <input type="checkbox" name="check" id="check" />
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <section class="section">
+      <div class="section__container">
+        <div class="content">
+          <p class="subtitle">HELLO</p>
+          <h1 class="title">
+            I'm <span>Manjula Rachamreddy<br /></span> 
+          </h1>
+          <p class="description">
+            Currently in my third year of BTech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. 
+            I am passionate about exploring the realms of technology.
+             Looking forward to contributing to the field and leveraging my skills to make a positive impact
+          </p>
+          <div class="action__btns">
+            <button class="hire__me">Hire Me</button>
+          </div>
+        </div>
+        <div class="image">
+          <img src="C:\Users\godsg\Pictures\2.jpg" alt="profile" />
+        </div>
+      </div>
+    </section>
+
+    <section id="skills" class="section">
+      <div class="section__container">
+        <div class="content">
+          <h2 class="section__title">Skills</h2>
+          <!-- Add your resume content here -->
+          <!-- Example: -->
+          <ul>
+            <li>HTML</li><br>
+            <li>CSS</li><br>
+            <li>python</li><br>
+            <li>c</li><br>
+        </ul>
+          
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" class="section">
+      <div class="section__container">
+        <div class="content">
+          <h2 class="section__title">Projects</h2>
+          <!-- Add your portfolio content here -->
+          <!-- Example: -->
+          <div class="portfolio_item">
+            <h3>Spam mail detection</h3>
+            <p> "I have refined my skills in data science and machine learning, specializing in the analysis of data and the construction of predictive models. One noteworthy project I undertook involved the implementation of a spam message classifier using the Naive Bayes algorithm.
+                 This system played a pivotal role in enhancing message communication security by accurately identifying and filtering out spam messages. 
+                Through this project, I gained valuable practical experience in email spam detection, contributing to the improvement of security protocols and overall user experience on communication platforms.".</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="section">
+      <div class="section__container">
+        <div class="content">
+          <h2 class="section__title">Contact</h2>
+          <!-- Add your contact details and form here -->
+          <!-- Example: -->
+          <p>Email: r.manjureddy1011@gmail.com</p>
+          <p>Phone: 8886392162</p>
+          <form action="your_form_processing_script.php" method="post">
+            <!-- Your contact form fields go here -->
+            <!-- Example: -->
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" required></textarea>
+
+            <button type="submit">Send Message</button>
+          </form>
+        </div>
+      </div>
+    </section>
+
+  </body>
+</html>
