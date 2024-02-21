@@ -23,7 +23,8 @@ Even if you're new to programming or have never written a line of code, this cha
 
 ## About Me:
 
-I am **Thirumala Sai Harsha Inumarthi**, a **Software Intern at Zephyr Technologies PVT LTD**, specializing in emerging tech and more. Currently pursuing a full-time Bachelor's degree in AI and Data Science from KIET, AP, India. Outside of studies, I enjoy attending to tech events, traveling, cooking and exploring things.
+
+I am **Manjula Rachamreddy**, currently undertaking a full-time Bachelor's degree in AI and Machine Learning at SVECW, AP, India. Beyond my academic pursuits, I find joy in participating in tech events, expressing myself through drawing and writing, and exploring new places through travel.
 
 **Ready to kickstart your coding journey? let's make coding fun and accessible for everyone!** 💻🚀
 
