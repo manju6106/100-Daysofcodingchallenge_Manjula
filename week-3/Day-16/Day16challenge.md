@@ -204,6 +204,6 @@ Day 16/100 - Another productive day in my coding journey! 🚀 I've just leveled
 
 ## Follow us:
 
-- **LinkedIn:** [Thirumala.Sai.Harsha Inumarthi](https://www.linkedin.com/in/saiharsha3377), [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **LinkedIn:** [Manjula Rachamreddy](https://www.linkedin.com/in/manjula-rachamreddy-182001255/), [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **YouTube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)
 
