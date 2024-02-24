@@ -1,0 +1,20 @@
+Day 19 Challenge:
+
+Assignment: Creating a Simple Bank System
+
+Develop a simple banking system that utilizes encapsulation, inheritance, and abstraction.
+
+Requirements:
+
+1.Create a BankAccount class with properties like accountNumber and balance. Include methods for deposit and withdraw.
+2.Use encapsulation to protect the balance from direct access.
+3.Create a SavingsAccount class that inherits from BankAccount and includes an interestRate property.
+4.Implement polymorphism by overriding the withdraw method for the SavingsAccount to include a withdrawal limit.
+
+
+let mySavings = new SavingsAccount('14325', 0.05);
+mySavings.deposit(2000);
+mySavings.withdraw(700); 
+mySavings.withdraw (100); 
+
+Day 19 Challenge Completed Successfully..!!
