@@ -1,0 +1,7 @@
+"Week 3 completed - Exciting update from my coding journey! 🚀 Just wrapped up an engaging project where I enhanced a simple Contact Management System in JavaScript. Delved deeper into functions, arrays, and the ES6 class syntax, adding features to update and delete contacts dynamically. 🛠️
+
+Thrilled by the power of code to bring ideas to life and solve real-world problems. Every line of code taught me something new and pushed my limits further. Can't wait to tackle more complex challenges ahead! 💡
+
+A huge shoutout to this amazing community for the constant support and inspiration. Let's keep learning and growing together! 🌱
+
+#Day21 #100DaysOfCoding #JavaScriptJourney #codewithaadi
