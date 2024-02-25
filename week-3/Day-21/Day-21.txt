@@ -1,0 +1,8 @@
+Day 21 Assessment: Simple Contact Management System
+
+I've just completed my Day21 Challenge - Week 3, which is wrapped with an engaging project where I enhanced s Simple Conctact Management System in JS.
+Delved deeper into functions, arrays, and the ES6 class syntax, adding features to update and delete contacts dynamically. 
+Thrilled by the power of code to bring ideas to life and solve real-world problems. 
+Every line of code taught me something new and pushed my limits further.
+
+Can't wait to tackle more complex challenges ahead! 🤩
