@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#todo-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 4px solid #e60606;
+  border-radius: 8px;
+  background-color: #f1f6f6; /* Light Blue Color for container background */
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#add-task-btn {
+  background-color: #13c613; /* Lime Green Color for Add Task button */
+}
+
+#clear-all-btn {
+  background-color: #d64915; /* Orange Red Color for Clear All button */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}

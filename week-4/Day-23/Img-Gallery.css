@@ -1,0 +1,23 @@
+.gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.thumbnails {
+  display: flex;
+}
+
+.thumbnails img {
+  width: 100px;
+  height: auto;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.full-image img {
+  max-width: 100%;
+  max-height: 80vh;
+}
+
