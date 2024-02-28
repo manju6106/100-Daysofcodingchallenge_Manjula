@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #acd0d0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #cf1313;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #fff;
+    border: 3px solid #ff9b05;
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button {
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
