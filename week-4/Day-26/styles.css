@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #b2cd50;
+}
+
+#blogPost {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #ed1414;
+}
+
+p {
+    line-height: 1.6;
+    color: hwb(0 9% 90%);
+}
+
+.meta {
+    color: #7c2e7a;
+}
+
+.tags {
+    color: #007BFF;
+}
