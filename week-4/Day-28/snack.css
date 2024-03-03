@@ -1,0 +1,9 @@
+/* Write CSS Here */
+body {
+	text-align: center;
+}
+.geeks {
+	font-size: 40px;
+	font-weight: bold;
+	color: rgb(66, 20, 248);
+}
