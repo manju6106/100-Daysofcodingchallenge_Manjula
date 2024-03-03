@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Example</title>
+</head>
+<body>
+    <div id="root"></div>
+
+    <!-- React Script -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+
+    <!-- Babel Script -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"></script>
+
+    <!-- Your React Component -->
+    <script type="text/babel">
+        // Define a simple React component
+        class Greeting extends React.Component {
+            render() {
+                return React.createElement('h1', null, `Hello, ${this.props.name}!`);
+            }
+        }
+
+        // Render the component into the DOM
+        ReactDOM.render(
+            React.createElement(Greeting, { name: 'World' }),
+            document.getElementById('root')
+        );
+    </script>
+</body>
+</html>
